@@ -1,7 +1,7 @@
 
 ![MasterHead](https://hackernoon.com/images/f2px36fy.gif)
 <h1 align="center">Hi there 👋, I'm Francis Aigo</h1>
-<h3 align="center">I'm a self taught game developer</h3>
+<h3 align="center">I'm a self taught game programmer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
 
