@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **francisaigo12345@gmail.com**
 
-- ⚡ Fun fact **I'm Extremely Introverted**
+- ⚡ Hobbies **Game dev, Airsoft, Animes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
